@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/post/post/</loc>
+    <loc>http://kris.my.id/post/post/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://kris.my.id/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/id/categories/"
+                href="http://kris.my.id/id/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://kris.my.id/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://kris.my.id/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/id/"
+                href="http://kris.my.id/id/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://kris.my.id/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://kris.my.id/post/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://kris.my.id/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/id/tags/"
+                href="http://kris.my.id/id/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="http://kris.my.id/tags/"
                 />
   </url>
   
