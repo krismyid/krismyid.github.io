@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>krismyid - random toughts.</title>
+    <link href="https://kris.my.id/feed.xml" rel="self" />
+    <link href="https://kris.my.id" />
+    <updated>1970-01-01T07:00:00+07:00</updated>
+    <author>
+        <name>krismyid</name>
+    </author>
+    <id>https://kris.my.id</id>
+
+</feed>

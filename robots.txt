@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kris.my.id/sitemap.xml

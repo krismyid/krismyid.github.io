@@ -1,1 +1,0 @@
-# krismyid.github.io
