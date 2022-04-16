@@ -3,10 +3,36 @@
     <title>./krismyid --random-toughts</title>
     <link href="https://kris.my.id/feed.xml" rel="self" />
     <link href="https://kris.my.id" />
-    <updated>1970-01-01T07:00:00+07:00</updated>
+    <updated>2022-04-16T13:28:43+07:00</updated>
     <author>
-        <name>krismyid</name>
+        <name>Christian W Utomo</name>
     </author>
     <id>https://kris.my.id</id>
 
+    <entry>
+        <title>Tentang Penulis</title>
+        <author>
+            <name>Christian W Utomo</name>
+        </author>
+        <link href="https://kris.my.id/tentang/"/>
+        <id>https://kris.my.id/tentang/</id>
+
+        <updated>2022-04-16T13:28:43+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Halo, saya Christian W Utomo, saya berdomisili di Jakarta, dan ini adalah jurnal pribadi saya. Seluruh isi didalam jurnal ini merupakan pengalaman pribadi, dan pendapat saya, sehingga jurnal ini menjadi sangat subjektif, menurut pandangan saya — selain alasan lain, menjadi tempat latihan saya untuk menyampaikan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Halo, saya Christian W Utomo, saya berdomisili di Jakarta, dan ini adalah jurnal pribadi saya.</p>
+<h2>Tentang Konten</h2>
+<p>Seluruh isi didalam jurnal ini merupakan pengalaman pribadi, dan pendapat saya, sehingga jurnal ini menjadi sangat subjektif, menurut pandangan saya — selain alasan lain, menjadi tempat latihan saya untuk menyampaikan pendapat.</p>
+<p>Isi dalam jurnal ini menggunakan sebagian besar menggunakan Bahasa Indonesia, namun tidak menutup kemungkinan saya juga menulis menggunakan Bahasa Inggris, atau mungkin gabungan dari keduanya, karena ada beberapa kata yang sulit ataupun jarang dipakai dalam Bahasa Indonesia.</p>
+<h2>Kontak</h2>
+<p>Saya menggunakan beberapa kanal media sosial, seperti twitter <a href="https://twitter.com/krismyid" target="_blank" rel="noopener noreferrer">@krismyid</a>, dan juga instagram <a href="https://instagram.com/krismyid" target="_blank" rel="noopener noreferrer">@krismyid</a>. Selain itu, Anda bisa menghubungi saya melalui surel ke <a href="mailto:krismyid@gmail.com">krismyid@gmail.com</a>.</p>
+<p>Kontak pribadi lainnya akan diberikan bila perlu.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

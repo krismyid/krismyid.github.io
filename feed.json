@@ -6,8 +6,22 @@
     "feed_url": "https://kris.my.id/feed.json",
     "user_comment": "",
     "author": {
-        "name": "krismyid"
+        "name": "Christian W Utomo"
     },
     "items": [
+        {
+            "id": "https://kris.my.id/tentang/",
+            "url": "https://kris.my.id/tentang/",
+            "title": "Tentang Penulis",
+            "summary": "Halo, saya Christian W Utomo, saya berdomisili di Jakarta, dan ini adalah jurnal pribadi saya. Seluruh isi didalam jurnal ini merupakan pengalaman pribadi, dan pendapat saya, sehingga jurnal ini menjadi sangat subjektif, menurut pandangan saya — selain alasan lain, menjadi tempat latihan saya untuk menyampaikan&hellip;",
+            "content_html": "<p>Halo, saya Christian W Utomo, saya berdomisili di Jakarta, dan ini adalah jurnal pribadi saya.</p>\n<h2>Tentang Konten</h2>\n<p>Seluruh isi didalam jurnal ini merupakan pengalaman pribadi, dan pendapat saya, sehingga jurnal ini menjadi sangat subjektif, menurut pandangan saya — selain alasan lain, menjadi tempat latihan saya untuk menyampaikan pendapat.</p>\n<p>Isi dalam jurnal ini menggunakan sebagian besar menggunakan Bahasa Indonesia, namun tidak menutup kemungkinan saya juga menulis menggunakan Bahasa Inggris, atau mungkin gabungan dari keduanya, karena ada beberapa kata yang sulit ataupun jarang dipakai dalam Bahasa Indonesia.</p>\n<h2>Kontak</h2>\n<p>Saya menggunakan beberapa kanal media sosial, seperti twitter <a href=\"https://twitter.com/krismyid\" target=\"_blank\" rel=\"noopener noreferrer\">@krismyid</a>, dan juga instagram <a href=\"https://instagram.com/krismyid\" target=\"_blank\" rel=\"noopener noreferrer\">@krismyid</a>. Selain itu, Anda bisa menghubungi saya melalui surel ke <a href=\"mailto:krismyid@gmail.com\">krismyid@gmail.com</a>.</p>\n<p>Kontak pribadi lainnya akan diberikan bila perlu.</p>",
+            "author": {
+                "name": "Christian W Utomo"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-16T13:08:18+07:00",
+            "date_modified": "2022-04-16T13:28:43+07:00"
+        }
     ]
 }
